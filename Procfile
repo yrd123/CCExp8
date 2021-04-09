@@ -1,1 +1,1 @@
-web: gunicorn CCExp8.wsgi — log-file 
+web: gunicorn CCExp8.wsgi — log-file -
